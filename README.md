@@ -1,3 +1,4 @@
 # Arals
 ARmada Application for Logical Solution
--This is back repository for my project Arals
+-This is a back repository of my project Arals (September 4, 2018)- start date
+-Alpha stage Work in progress
